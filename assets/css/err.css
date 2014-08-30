@@ -6,7 +6,7 @@ html, body, .do-you-even-flexbox {
     margin:0;
     font:normal 14px/1.2"Roboto", Helvetica, Arial, sans-serif;
     text-align:center;
-    background:#111 url('imgs/err_bg.jpg') center top/ cover;
+    background:#111 url('http://ppcdn.500px.org/81304401/42c8982c742951618e6a9695e5365a1111b096fe/2048.jpg?v=15') center top/ cover;
 } ::-moz-selection {
     background:#2fdd11;
    	color:#fff;
