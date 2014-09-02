@@ -10,7 +10,7 @@ Please see LISCENSE.md for a markdown version of the license.
 
 ### Builds
 
-Last Build: 8/30/2014 8:57 AM EST
+Last Build: 9/2/2014 12:51 AM
 - Status: SUCCESS
-- Build Number: 10
-- CHANGES: Made images load locally, major changes to CSS, improvements to make load times faster.
+- Build Number: 15
+- CHANGES: Reduced load times, started work on Projects page, revamped CSS (again).
