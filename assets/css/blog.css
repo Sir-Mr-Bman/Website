@@ -6,8 +6,7 @@ html, body, .do-you-even-flexbox {
     margin:0;
     font:normal 14px/1.2"Roboto", Helvetica, Arial, sans-serif;
     text-align:center;
-    background:#111 url('http://i.imgur.com/1vbJzwL.jpg') center top/ cover;
-    /** Image credit: www.reddit.com/u/rockjoc used with permission. */
+    background:#111 url('http://i.imgur.com/6RdCaN4.jpg?1') center top/ cover;
 } ::-moz-selection {
     background:#2fdd11;
    	color:#fff;
@@ -33,6 +32,17 @@ html, body, .do-you-even-flexbox {
 }.box {
     height:20%;
    	margin:auto
+}.box {
+    color:#333;
+    margin-top:30px;
+    font-size:30px;
+}.box a {
+    padding:0 5px;
+    color:#000;
+    font-size:30px;
+}.box a:hover{
+    color:#000;
+    font-size:25px;
 }h1 {
     font-family:"Roboto Slab", Helvetica, Arial, sans-serif;
     margin:0;
@@ -45,6 +55,12 @@ html, body, .do-you-even-flexbox {
 	color:#000;
 	font-weight:400;
 	font-size:50px;
+}p {
+    font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
+    margin:0;
+    color:#000;
+    font-weight:400;
+    font-size:30px;
 }.social {
 	margin-top:30px;
 }.social a {
