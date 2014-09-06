@@ -1,16 +1,10 @@
-### My Website
+### !! WARNING !!
+This branch of my repository is ABANDONED!
 
-Written by Brennan Macaig
+Please do NOT assume that this branch of my repository represents the current project. It does not.
 
-Copyright (C) 2014-15 Brennan Macaig and Sant Bani School.
+This branch was DISCONTINUED on Wednesday the 3rd of August. If you are reading this branch after this date, it will NOT continue to be updated.
 
-All rights reserved.
+The most up-to-date branch is currently: gh-pages
 
-Please see LISCENSE.md for a markdown version of the license.
-
-### Builds
-
-Last Build: 9/2/2014 12:51 AM
-- Status: SUCCESS
-- Build Number: 15
-- CHANGES: Reduced load times, started work on Projects page, revamped CSS (again).
+Reason this branch is abandoned: Branch management with GH-Pages became difficult over four computers, dropped branch to save time and effort.
